@@ -1,0 +1,1 @@
+Aparapi may need to be initialized. In case of problems, go to Aparapi folder, and copy the com folder to where the com folder is found in the system. Usually in "C:\Users\UserName\.m2\repository". 806612 is the project itself.
