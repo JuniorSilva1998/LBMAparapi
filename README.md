@@ -1,7 +1,7 @@
 # LBMAparapi
 Project for Lattice Boltzmann Method using Aparapi in a Java Program
 
-The LBM program was developed as part of  a project for university.
+The LBM program was developed as part of a project for university.
 
 It was written in Java and was developed using NetBeans IDE 8.2. For GPU programming Aparapi 1.8.0 was used. The program was developed from a Python script from the Palabos library from Universitè De Genéve.
 
